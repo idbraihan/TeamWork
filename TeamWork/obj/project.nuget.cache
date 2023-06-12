@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "EH+8DPzTMa+SMwy7gTU2lSnrqx5h7pu7l4Sel8PGPkPPQmVCbac1sY9/JEwl/GGPmaLXx9t7rjIx8Upeg3apqA==",
+  "dgSpecHash": "dke33547TwCqzRZ8t1MvTqW6IdvC+93q/TcbeD86N/CdLoKO27YeLgGk592heR3AxyOiBhO4CDp41RiRWt0a+Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\idb_c#\\Source\\Repos\\TeamWork\\TeamWork\\TeamWork.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\idb_c#\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.28\\microsoft.netcore.app.host.win-x64.3.1.28.nupkg.sha512"
+  ],
   "logs": []
 }
