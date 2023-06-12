@@ -6,5 +6,7 @@
         public string Name { get; set; }
 
         public int NijamBhai { get; set; }
+
+        public decimal salery { get; set; }
     }
 }
